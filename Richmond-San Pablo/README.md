@@ -22,7 +22,7 @@ All datasets created or downloaded.
 | __Authority__ | __File Name__ | __Download Site__ | __Source Date__ |
 |-------------|------------|------------|------------|
 | BAAQMD         | AB617 Richmond-San Pablo Air Monitoring Boundary and Focus Areas | [data.bayareametro.gov](https://data.bayareametro.gov/Environment/AB617-Richmond-San-Pablo-Community-Boundary-and-Fo/mqvs-ie9t)    | June 2019     |
-| BAAQMD         | AB617 Richmond-San Pablo Air Monitoring Boundary and Focus Areas | [baaqmd.maps.arcgis.com](https://baaqmd.maps.arcgis.com/home/webmap/viewer.html?useExisting=1&layers=4bf66f78890c481290a68b82da8a684d)     | June 2019     |
+| BAAQMD         | AB617 Richmond-San Pablo Air Monitoring Boundary and Focus Areas - GIS | [baaqmd.maps.arcgis.com](https://baaqmd.maps.arcgis.com/home/webmap/viewer.html?useExisting=1&layers=4bf66f78890c481290a68b82da8a684d)     | June 2019     |
 | BAAQMD         | BAAQMD Draft Richmond Planning EI | [data.bayareametro.gov](<insert link>)     | 02/18/2020     |
 
 
