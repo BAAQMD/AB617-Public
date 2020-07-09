@@ -21,7 +21,7 @@ All datasets created or downloaded.
 
 | __Authority__ | __File Name__ | __Download Site__ | __Source Date__ |
 |-------------|------------|------------|------------|
-| BAAQMD         | Insert File Name | [Bay Area Metro Open Data](http://opendata.mtc.ca.gov/)    | MM/DD/YYYY    |
+| BAAQMD         | BAAQMD_Draft_Richmond_Planning_EI_021820 | [Bay Area Metro Open Data](http://opendata.mtc.ca.gov/)    | MM/DD/YYYY    |
 | BAAQMD         | Insert File Name | [Bay Area Metro Open Data](insert link)     | MM/DD/YYYY     |
 
 
